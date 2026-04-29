@@ -141,11 +141,13 @@ Latest review: Apr 29, 2026, 01:39 UTC. Latest close: Apr 29, 2026, 01:38 UTC. L
 <!-- clawsweeper-status:openclaw-openclaw:start -->
 **Workflow status**
 
-Repository: [openclaw/openclaw](https://github.com/openclaw/openclaw)
+Updated: Apr 29, 2026, 05:02 UTC
 
-Updated: Apr 29, 2026, 01:41 UTC
+State: Planning review
 
-State: Review in progress
+Planner is scanning GitHub for the next review candidates. Candidate counts and shard details will be posted after planning completes.
+Run: [https://github.com/bhardwajRahul/clawsweeper/actions/runs/25035307081](https://github.com/bhardwajRahul/clawsweeper/actions/runs/25035307081)
+<!-- clawsweeper-status:end -->
 
 Planned 500 items across 100 shards. Capacity is 500 items. Review shards are starting; publish will merge artifacts when they finish.
 Run: [https://github.com/openclaw/clawsweeper/actions/runs/25085953298](https://github.com/openclaw/clawsweeper/actions/runs/25085953298)
