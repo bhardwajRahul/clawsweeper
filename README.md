@@ -38,12 +38,12 @@ Last dashboard update: May 1, 2026, 04:48 UTC
 <!-- clawsweeper-status:start -->
 **Workflow status**
 
-Updated: May 1, 2026, 04:47 UTC
+Updated: May 2, 2026, 02:58 UTC
 
-State: Review publish complete
+State: Planning review
 
-Merged review artifacts for run 25036028732. Folder reconciliation moved tracked files to match current GitHub open/closed state, and the dashboard reflects completed shards.
-Run: [https://github.com/bhardwajRahul/clawsweeper/actions/runs/25036028732](https://github.com/bhardwajRahul/clawsweeper/actions/runs/25036028732)
+Planner is scanning GitHub for the next review candidates. Candidate counts and shard details will be posted after planning completes.
+Run: [https://github.com/bhardwajRahul/clawsweeper/actions/runs/25040392567](https://github.com/bhardwajRahul/clawsweeper/actions/runs/25040392567)
 <!-- clawsweeper-status:end -->
 
 ### Queue
