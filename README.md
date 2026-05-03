@@ -31,18 +31,18 @@ already implements the proposed change with source-backed evidence.
 
 ## Dashboard
 
-Last dashboard update: May 2, 2026, 02:59 UTC
+Last dashboard update: May 3, 2026, 22:53 UTC
 
 ### Current Run
 
 <!-- clawsweeper-status:start -->
 **Workflow status**
 
-Updated: May 2, 2026, 02:59 UTC
+Updated: May 3, 2026, 22:52 UTC
 
-State: Hot intake in progress
+State: Hot intake publish complete
 
-Hot intake planned 20 items across 20 shards. Capacity is 20 items. Review shards are starting; publish will merge artifacts when they finish.
+Merged hot intake artifacts for run 25040392567. Folder reconciliation moved tracked files to match current GitHub open/closed state, and the dashboard reflects completed shards.
 Run: [https://github.com/bhardwajRahul/clawsweeper/actions/runs/25040392567](https://github.com/bhardwajRahul/clawsweeper/actions/runs/25040392567)
 <!-- clawsweeper-status:end -->
 
@@ -50,11 +50,11 @@ Run: [https://github.com/bhardwajRahul/clawsweeper/actions/runs/25040392567](htt
 
 | Metric | Count |
 | --- | ---: |
-| Open issues in [openclaw/openclaw](https://github.com/openclaw/openclaw) | 3412 |
-| Open PRs in [openclaw/openclaw](https://github.com/openclaw/openclaw) | 3340 |
-| Open items total | 6752 |
+| Open issues in [openclaw/openclaw](https://github.com/openclaw/openclaw) | 3360 |
+| Open PRs in [openclaw/openclaw](https://github.com/openclaw/openclaw) | 3352 |
+| Open items total | 6712 |
 | Reviewed files | 0 |
-| Unreviewed open items | 6752 |
+| Unreviewed open items | 6712 |
 | Archived closed files | 0 |
 
 ### Review Outcomes
@@ -80,7 +80,7 @@ Run: [https://github.com/bhardwajRahul/clawsweeper/actions/runs/25040392567](htt
 | Daily PR cadence | 0/0 current (0 due, -) |
 | Daily new issue cadence (<30d) | 0/0 current (0 due, -) |
 | Weekly older issue cadence | 0/0 current (0 due, -) |
-| Due now by cadence | 6752 |
+| Due now by cadence | 6712 |
 
 ### Audit Health
 
